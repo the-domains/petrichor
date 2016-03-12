@@ -1,0 +1,28 @@
+name: petrichor
+favicon: null
+layout_spectrum: 0.35336549719795585
+typography_spectrum: 0.40589695516973734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1819448946043849
+  lightness: 0.31933595379814506
+  saturation: 0.6770022241398692
+  rhythmicContrast: 0.4330690847709775
+purpose: []
