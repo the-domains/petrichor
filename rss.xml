@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[petrichor]]></title>
         <description><![CDATA[petrichor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/petrichor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 20:56:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 20:56:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/petrichor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72456093-537e-47b4-ae3a-4bb11e40d84e.jpg">]]></description>
-            <link>undefinedtesting-image/index.html</link>
+            <link>https://thegrid.ai/petrichor/testing-image/index.html</link>
             <guid isPermaLink="false">b4a0f156-6396-4a22-a2aa-01aa48d9eb36</guid>
-            <pubDate>Tue, 21 Jun 2016 20:56:28 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 20:55:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
