@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-21T20:56:28.039Z'
+datePublished: '2016-06-21T20:55:55.107Z'
 author: []
-dateModified: '2016-06-21T20:56:27.749Z'
+dateModified: '2016-06-21T20:55:53.516Z'
 title: ''
 description: Testing image
+starred: false
 sourcePath: _posts/2016-06-21-testing-image.md
-starred: true
 inFeed: true
 hasPage: true
 inNav: false
